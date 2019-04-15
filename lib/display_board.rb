@@ -7,5 +7,5 @@ def display_board("tic Tac Toe")
   puts ("-----------")
   puts ("   |   |   ")
 
-  
+
 end
