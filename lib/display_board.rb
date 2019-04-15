@@ -7,4 +7,4 @@
   puts ("-----------")
   puts ("   |   |   ")
 
-def display_board (board)
+
